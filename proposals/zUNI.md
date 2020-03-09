@@ -39,7 +39,7 @@ Instructions:
 
 - Video Tutorial: [https://www.loom.com/share/53ead589fa584db49c228d6c0352b5f6](https://www.loom.com/share/53ead589fa584db49c228d6c0352b5f6)
 - https://medium.com/ethereum-grid/forking-ethereum-mainnet-mint-your-own-dai-d8b62a82b3f7
-- Once Geth is running on port 8545, open a new terminal window
+- [WIP] Once Geth is running on port 8545, open a new terminal window
     - Type: “ganache-cli --fork http://localhost:8545 -e 30000”
       - This creates a network that simulates mainnet running on port 8546 with each address starting with 30,000 ETH
 - Pending for final push on repo. [In a new terminal window, navigate to the Unipool folder
